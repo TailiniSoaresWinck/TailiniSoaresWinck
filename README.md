@@ -22,6 +22,6 @@
   <a href = "mailto:tailinesoareswinck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tailini-soares-winck-0a0762250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
 </div>
 
+ ![Snake animation](https://github.com/TailiniSoaresWinck/TailiniSoaresWinck/blob/output/github-contribution-grid-snake.svg)
