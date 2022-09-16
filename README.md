@@ -27,5 +27,5 @@
 </div>
   
   ##
-  ![snake gif](https://github.com/TailiniSoaresWinck/TailiniSoaresWinck/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/TailiniSoaresWinck/TailiniSoaresWinck/blob/output/github-contribution-grid-snake.svg)
   
