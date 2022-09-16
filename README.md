@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Rafa-Python" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="right" alt="Tai-pic" height="150" style="border-radius:50px;" src="Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=pzvjjtju2b #Picrew #AmphyPop_Doll_Maker">
+
 </div>
 
 <div>
@@ -25,7 +25,4 @@
   
 
 </div>
-  
-  ##
-  ![snake animation](https://github.com/TailiniSoaresWinck/TailiniSoaresWinck/blob/output/github-contribution-grid-snake.svg)
   
