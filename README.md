@@ -1,6 +1,6 @@
 🌟 Desenvolvedora em Formação | Estudante de Sistemas de Informação 🌟<br>
 <br>Olá! Sou uma desenvolvedora apaixonada pela tecnologia. Atualmente, estou cursando Sistemas de Informação na Unisinos, onde aprimoro minhas habilidades em desenvolvimento de software e resolução de problemas.<br>
-<br>🔍 O que busco: Estou em busca de oportunidades para aplicar meu conhecimento em desenvolvimento de software e colaborar em projetos inovadores! Vamos nos conectar! 🚀
+<br>🔍 O que busco: Estou em busca de oportunidades para aplicar meu conhecimento em desenvolvimento de software e colaborar em projetos inovadores! 🚀
 
 
 ## 🌐 Socials:
